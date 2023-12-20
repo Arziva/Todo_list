@@ -56,7 +56,7 @@ Accessing the App
 Open your web browser and go to http://localhost:8080 to interact with the Todo List application.
 
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
