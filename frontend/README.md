@@ -26,7 +26,7 @@ Prerequisites
 Make sure you have the following software installed on your machine:
 
 Docker
-Git
+& Git
 
 
 ### Installation
