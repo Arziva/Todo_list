@@ -10,8 +10,8 @@
 </template>
 
 <script>
-import CreateTodo from "./components/CreateTodo.vue";
-import ListTodo from "./components/ListTodo.vue";
+import CreateTodo from "./components/Make.vue";
+import ListTodo from "./components/Show.vue";
 
 export default {
   name: "app",
