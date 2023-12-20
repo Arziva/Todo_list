@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "description": "Simple todo application.",
     "main": "server.js",
-    "author": "Samuel James",
+    "author": "Arun Kumar",
     "scripts": {
         "build": "webpack",
         "start": "node app.js"
