@@ -3,7 +3,7 @@
 ## Project setup
 A simple and customizable Todo List application built with Node.js and Vue.js. This project provides a full-stack solution with both backend and frontend components, making it easy to manage and extend.
 
-Project Structure:
+## Project Structure:
 
 The repository follows a simple structure:
 
